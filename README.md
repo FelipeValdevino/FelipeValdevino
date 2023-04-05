@@ -4,7 +4,7 @@
 [![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-felipe-861105jf)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSilva77&show_icons=true&theme=dracula)
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeValdevino&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
